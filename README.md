@@ -4,9 +4,9 @@
 ---
 
 ### 👨‍💻 About Me
-- 🔭 I’m currently working at **ZData Innovations (Pvt) Ltd**
-- 🌱 I’m currently learning and exploring **Machine Learning & Spring boot**
-- 💬 Ask me about **Java, Spring Boot, React, NodeJS, MySQL, MongoDB**
+- 🔭 I’m currently working as **Associate Software Engineer**
+- 🌱 I’m currently learning and exploring **Machine Learning**
+- 💬 Ask me about **Java, Spring Boot, React, TypeScript, MySQL**
 - 📫 Reach me at: **yasmii.navodya@gmail.com**
 - ⚡ Fun fact: *Coding is the closest thing we have to superpowers* ⚡
 
